@@ -53,6 +53,11 @@ body {
   padding: $gutter;
   width: 25%;
   }
+  .col-m3{
+    flex: 0 0 auto;
+  padding: $gutter;
+  width: 31.7%;
+  }
   .col-4{
     flex: 0 0 auto;
   padding: $gutter;
